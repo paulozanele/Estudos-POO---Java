@@ -1,0 +1,3 @@
+123 gustavo 3 5 2000 joao_mesquita 2495 parque_industrial SJRP 0 2000.0
+321 joao 21 10 1999 boa_vista 3249 boa_vista SJRP 0 1500.0
+523 paulo 25 12 1998 tiradentes 1943 centro SJRP 0 3000.0

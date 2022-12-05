@@ -1,0 +1,2 @@
+100 honda cg 2022 0.0 flex 123.0 300 street false
+200 yamaha mt 2022 0.0 flex 159.0 500 street false
